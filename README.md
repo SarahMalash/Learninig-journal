@@ -15,3 +15,4 @@ Style your text using: ** ** to make it bold. Example: **text**
                       [] to wrap the link text. Example [text]
                       () to wrap the link. Example (https://pages.github.com/)
                       
+Sarah Malash
